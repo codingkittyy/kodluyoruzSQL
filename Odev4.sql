@@ -17,4 +17,7 @@ WHERE country LIKE '_____';
 -- city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
 SELECT COUNT(city) FROM city
-WHERE city LIKE 'R%r';
+WHERE city LIKE 'R%r'; 
+
+
+/**/
